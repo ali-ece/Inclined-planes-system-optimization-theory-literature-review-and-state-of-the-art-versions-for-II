@@ -3,5 +3,6 @@ The Inclined Planes System Optimization (IPO) algorithm is recent algorithm that
 
 
 Reference article:
+
 Inclined planes system optimization: theory, literature review, and state-of-the-art versions for IIR system identification.
 DOI: https://doi.org/10.1016/j.eswa.2022.117127
